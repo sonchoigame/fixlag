@@ -1,0 +1,99 @@
+{ 
+"schemaVersion": 1, 
+"identifier": "nsmod.esp.aim", 
+"name": "♰ NSMOD FIX LAG FF ♰", 
+"description": " : ̗̀➛ KÊNH TELE: t.me/sonchoigame123 \n  ̗̀➛ FREE FIRE",
+"icon": "IMG/images.jpg", 
+"packages": [ 
+{ 
+"identifier": "FF-FIXLAG", 
+"name": " FFTH 144FPS FIX LAG ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "FIXLAG ★", 
+"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
+"category": "FF THƯỜNG", 
+"tags": [ 
+"FF THƯỜNG"
+], 
+"icon": "IMG/hinh-anh-anime-cute-de-thuong-1.jpg", 
+"screenshots": [ 
+"IMG/avt.jpg"
+
+], 
+"download": "patch/144 Fps ffth @iosthx.3105",
+"sha256": "4AA2CFFC440797A3B28D72D3494628B8470AFEC66E8AE34D88A576DBBCC54CC8", 
+"password": "@iosthx.3105",
+"size": 167049, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+{ 
+"identifier": "FF-FIXLAG2", 
+"name": " FFM 144FPS FIX LAG ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "FIXLAG ★", 
+"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
+"category": "FF MAX", 
+"tags": [ 
+"FF MAX"
+], 
+"icon": "IMG/hinh-anh-anime-cute-de-thuong-1.jpg", 
+"screenshots": [ 
+"IMG/avt.jpg"
+
+], 
+"download": "patch/144 fps ffmax.3105",
+"sha256": "F5A27EC406AB6C5D0DCB08EE4B23D1ADA0474E1FA68296F8DD8F9F2F658CC3FF", 
+"password": "@iosthx.3105",
+"size": 167053, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+}
+]
+}
+
+
