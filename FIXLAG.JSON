@@ -25,23 +25,31 @@
 "sha256": "4AA2CFFC440797A3B28D72D3494628B8470AFEC66E8AE34D88A576DBBCC54CC8", 
 "password": "@iosthx.3105",
 "size": 167049, 
-"supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
+"supportedOS": [
+  {
+    "minimum": "17.0",
+    "maximum": "18.7.10"
+  },
+  {
+    "minimum": "26.0",
+    "maximum": "26.7"
+  },
+  {
+    "minimum": "27.0",
+    "maximum": "27.2",
+    "builds": [
+      "24A5355q",
+      "24A5370h",
+      "24A5380h",
+      "24A5390f",
+      "24A5408d",
+      "24A5418b",
+      "24A5424a",
+      "24A5430a",
+      "24A435",
+      "24A437",
+      "24B5084k",
+      "24B5089g"
 ] 
 } 
 ], 
@@ -70,23 +78,31 @@
 "sha256": "F5A27EC406AB6C5D0DCB08EE4B23D1ADA0474E1FA68296F8DD8F9F2F658CC3FF", 
 "password": "@iosthx.3105",
 "size": 167053, 
-"supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
+"supportedOS": [
+  {
+    "minimum": "17.0",
+    "maximum": "18.7.10"
+  },
+  {
+    "minimum": "26.0",
+    "maximum": "26.7"
+  },
+  {
+    "minimum": "27.0",
+    "maximum": "27.2",
+    "builds": [
+      "24A5355q",
+      "24A5370h",
+      "24A5380h",
+      "24A5390f",
+      "24A5408d",
+      "24A5418b",
+      "24A5424a",
+      "24A5430a",
+      "24A435",
+      "24A437",
+      "24B5084k",
+      "24B5089g"
 ] 
 } 
 ], 
